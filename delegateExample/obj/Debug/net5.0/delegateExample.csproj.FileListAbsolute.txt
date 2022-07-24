@@ -1,0 +1,16 @@
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\bin\Debug\net5.0\delegateExample.exe
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\bin\Debug\net5.0\delegateExample.deps.json
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\bin\Debug\net5.0\delegateExample.runtimeconfig.json
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\bin\Debug\net5.0\delegateExample.runtimeconfig.dev.json
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\bin\Debug\net5.0\delegateExample.dll
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\bin\Debug\net5.0\delegateExample.pdb
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.csproj.AssemblyReference.cache
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.AssemblyInfoInputs.cache
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.AssemblyInfo.cs
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.csproj.CoreCompileInputs.cache
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.dll
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\refint\delegateExample.dll
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.pdb
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\delegateExample.genruntimeconfig.cache
+C:\Users\safak\OneDrive\Masaüstü\delegateExample\delegateExample\obj\Debug\net5.0\ref\delegateExample.dll
