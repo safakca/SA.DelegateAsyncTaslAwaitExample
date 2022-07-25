@@ -24,7 +24,7 @@ namespace delegateExample
             //Console.ReadKey();
             #endregion
 
-            #region async
+            #region asyncTaskAwaitExample
             //method1();
             //method2();
             //Console.ReadKey();
@@ -62,7 +62,7 @@ namespace delegateExample
         //} 
         #endregion
 
-        #region async
+        #region asyncTaskAwaitExample
 
         //static async Task method1()
         //{
@@ -85,9 +85,6 @@ namespace delegateExample
         //        Thread.Sleep(2000);
         //    }
         //} 
-        #endregion
-
-      
-         
+        #endregion 
     }
 }
