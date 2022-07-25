@@ -9,19 +9,13 @@ namespace delegateExample
     {
         static void Main(string[] args)
         {
-            #region delegate
+            #region delegateExample1
             //FirstDelegate firstDelegate = new FirstDelegate(ModAl);
             //firstDelegate += Bolme;
             //firstDelegate.Invoke(4, 2);
             #endregion
-
-            #region async
-            //method1();
-            //method2();
-            //Console.ReadKey();
-            #endregion
-
-            #region delegate 2
+                
+            #region delegateExample2
             //ornekDelegate del = new ornekDelegate(methodHi);
             //del += methodName;
             //del += methodSurname;
@@ -29,11 +23,15 @@ namespace delegateExample
             //del.Invoke();
             //Console.ReadKey();
             #endregion
-             
-        }
-         
 
-        #region delegate
+            #region async
+            //method1();
+            //method2();
+            //Console.ReadKey();
+            #endregion  
+        } 
+        
+        #region delegateExample1
         //delegate void FirstDelegate(int x, int y);
         //private static void ModAl(int num1, int num2)
         //{
@@ -44,6 +42,24 @@ namespace delegateExample
         //{
         //    Console.WriteLine($"{num1 / num2}");
         //}
+        #endregion
+            
+        #region delegateExample2
+        //delegate void ornekDelegate();
+        //static void methodHi()
+        //{
+        //    Console.WriteLine("Merhaba");
+        //}
+
+        //static void methodName()
+        //{
+        //    Console.WriteLine("Ada");
+        //}
+
+        //static void methodSurname()
+        //{
+        //    Console.WriteLine("Kara");
+        //} 
         #endregion
 
         #region async
@@ -68,30 +84,10 @@ namespace delegateExample
         //        Console.WriteLine("Method2");
         //        Thread.Sleep(2000);
         //    }
-        //}
-
-
-
+        //} 
         #endregion
 
-        #region delegate 2
-        //delegate void ornekDelegate();
-        //static void methodHi()
-        //{
-        //    Console.WriteLine("Merhaba");
-        //}
-
-        //static void methodName()
-        //{
-        //    Console.WriteLine("Ada");
-        //}
-
-        //static void methodSurname()
-        //{
-        //    Console.WriteLine("Kara");
-        //}
-
-        #endregion
+      
          
     }
 }
