@@ -78,7 +78,7 @@ namespace delegateExample
         //delegate void ornekDelegate();
         //static void methodHi()
         //{
-        //    Console.WriteLine("Hello World");
+        //    Console.WriteLine("Merhaba");
         //}
 
         //static void methodName()
@@ -88,7 +88,7 @@ namespace delegateExample
 
         //static void methodSurname()
         //{
-        //    Console.WriteLine("Karadag");
+        //    Console.WriteLine("Kara");
         //}
 
         #endregion
